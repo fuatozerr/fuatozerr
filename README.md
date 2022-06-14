@@ -92,5 +92,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fuatozerr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="fuatozerr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/fuatozerr?trk=profile-badge">Faruk Fuat ÖZER</a></div>
+              
 
