@@ -100,16 +100,17 @@
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11185537509&cover_image=true&theme=default" /></div>  
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fuatozerr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/fuatozerr?trk=profile-badge">Faruk Fuat ÖZER</a></div>
 
 <br/>  
 
   
 
 <br/>  
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fuatozerr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/fuatozerr?trk=profile-badge">Faruk Fuat ÖZER</a></div>
+
               
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
