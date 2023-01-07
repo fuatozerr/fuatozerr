@@ -6,7 +6,7 @@
 ### <div align="center">I'm Fuat, a full-time full-stack developer 👨‍💻 working since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [SOVOS](https://sovos.com/tr/)  
+- 🔭 I’m currently working on [BIRLESIK ODEME](https://www.birlesikodeme.com/)  
   
 
 - 🌱 I’m currently learning Angular and Azure DevOps  
