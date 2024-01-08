@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Worldline](https://worldline.com/)  
   
 
-- 🌱 I’m currently learning Angular and Azure DevOps  
+
   
 
 <br/>  
